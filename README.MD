@@ -82,8 +82,8 @@ project/
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/OM-1817/movie-recommendation-system.git
+cd movie-recommendation-system
 
 ---
 
